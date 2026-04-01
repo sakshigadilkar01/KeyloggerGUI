@@ -29,7 +29,7 @@ pip install pynput
 
 ### Run the program
 ```bash
-python main.py
+python keylogger.py
 ```
 # 📂 Output Files
 logs.txt → Stores keystrokes in plain text
