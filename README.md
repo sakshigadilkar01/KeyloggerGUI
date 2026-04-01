@@ -11,11 +11,11 @@ Start and Stop keylogging functionality
 Lightweight and easy to use
 
 # 🛠️ Technologies Used
-Python
-Tkinter (GUI)
-pynput (keyboard listener)
-JSON (structured data storage)
-File Handling
+. Python
+. Tkinter (GUI)
+. pynput (keyboard listener)
+. JSON (structured data storage)
+. File Handling
 
 # 🚀 How It Works
 The application listens to keyboard events using the pynput library.
